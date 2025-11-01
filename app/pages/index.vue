@@ -1,5 +1,6 @@
-<script lang="ts" setup></script>
-
 <template>
-  <UButton>Button</UButton>
+  <UContainer class="py-12 flex gap-x-6">
+    <Counter />
+    <Todo />
+  </UContainer>
 </template>

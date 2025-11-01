@@ -1,0 +1,4 @@
+<template>
+  <UHeader />
+  <slot />
+</template>
